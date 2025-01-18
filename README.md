@@ -3,11 +3,11 @@ A simple platforming demo based on concept art of an untitled game featuring [Me
 
 ## Original Concept Art by @sirninjamonkey
 
-![Concept Art](image.png)
+![Concept Art](readme/image.png)
 
 ## Game Screenshot
 
-![alt text](image-1.png)
+![alt text](readme/image-1.png)
 ---
 
 # Credits
