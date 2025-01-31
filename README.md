@@ -18,6 +18,11 @@ Not all of the assets are not owned by me; many are created by @sirninjamonkey o
 
 # Changelogs
 
+## v1.0.2.2
+* Added a level ending for the tutorial
+* Removed the second snelvin section
+* Added a screen transition
+
 ## v1.0.2.1
 * Moved the bounce pad tutorial to the end
 * Extended the level a bit
