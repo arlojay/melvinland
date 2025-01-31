@@ -18,6 +18,12 @@ Not all of the assets are not owned by me; many are created by @sirninjamonkey o
 
 # Changelogs
 
+## v1.0.2.1
+* Moved the bounce pad tutorial to the end
+* Extended the level a bit
+* Added short spikes
+* Snelvin can now walk on spikes
+
 ## v1.0.2.0
 * Added music and sound effects
 * Added mobile controls
