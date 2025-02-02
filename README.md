@@ -18,6 +18,21 @@ Not all of the assets are not owned by me; many are created by @sirninjamonkey o
 
 # Changelogs
 
+## v1.0.3.0
+* Updated bounce pad texture
+* Update spike texture
+* Jump particles are now algorithmic
+* Added more decoration tiles
+* Added bombs
+* Added crates
+* Added explodable crates
+* The player can no longer kill meller yellers by jumping on them
+* Added the underside of a block
+* The music now fades in a transition
+* Melvin now has a death animation
+* Fixed the eyebrows moving when running
+* Tweaked sign size
+
 ## v1.0.2.2
 * Added a level ending for the tutorial
 * Removed the second snelvin section

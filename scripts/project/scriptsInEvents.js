@@ -3,7 +3,7 @@
 
 const scriptsInEvents = {
 
-	async Gameevents_Event126_Act1(runtime, localVars)
+	async Gameevents_Event182_Act1(runtime, localVars)
 	{
 		const tilemap = runtime.objects.EndTilemap.getFirstInstance();
 		const endFlag = runtime.objects.EndFlag.getFirstInstance();
