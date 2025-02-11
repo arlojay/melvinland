@@ -18,6 +18,13 @@ Not all of the assets are not owned by me; many are created by @sirninjamonkey o
 
 # Changelogs
 
+## v1.0.3.1
+* Fixed softlock when a crate drops on Melvin
+* Fixed Snelvin not acknowledging crates
+* Fixed being able to grab crates postmortem
+* Fixed a bug when picking up a crate Melvin is standing on
+* Tweaked end screen
+
 ## v1.0.3.0
 * Updated bounce pad texture
 * Update spike texture
