@@ -18,6 +18,7 @@ self.C3_GetObjectRefTable = function () {
 		C3.Plugins.PlatformInfo,
 		C3.Plugins.Multiplayer,
 		C3.Behaviors.Sin,
+		C3.Plugins.Text,
 		C3.Behaviors.custom,
 		C3.Plugins.System.Cnds.IsGroupActive,
 		C3.Plugins.System.Cnds.EveryTick,
@@ -215,7 +216,10 @@ self.C3_GetObjectRefTable = function () {
 		C3.Plugins.System.Acts.AddVar,
 		C3.Plugins.Audio.Acts.SetVolume,
 		C3.Plugins.Sprite.Exps.Height,
-		C3.Plugins.System.Exps.viewportbottom
+		C3.Plugins.System.Exps.viewportbottom,
+		C3.Plugins.Spritefont2.Cnds.CompareInstanceVar,
+		C3.Plugins.Spritefont2.Acts.SetText,
+		C3.Plugins.System.Exps.projectname
 	];
 };
 self.C3_JsPropNameTable = [
@@ -251,6 +255,7 @@ self.C3_JsPropNameTable = [
 	{Saturn: 0},
 	{Decoration: 0},
 	{Screen: 0},
+	{Purpose: 0},
 	{SpriteFont: 0},
 	{Spike: 0},
 	{Strength: 0},
@@ -274,7 +279,6 @@ self.C3_JsPropNameTable = [
 	{Browser: 0},
 	{DeviceInfo: 0},
 	{Multiplayer: 0},
-	{Purpose: 0},
 	{Portal: 0},
 	{PeerId: 0},
 	{Local: 0},
@@ -317,8 +321,8 @@ self.C3_JsPropNameTable = [
 	{GenericParticle: 0},
 	{BackgroundProp: 0},
 	{DecorationTilemap: 0},
-	{Sprite: 0},
-	{Sprite2: 0},
+	{Seth: 0},
+	{Text: 0},
 	{SolidTiles: 0},
 	{Killable: 0},
 	{Bounceable: 0},
@@ -435,8 +439,8 @@ self.InstanceType = {
 	GenericParticle: class extends self.ISpriteInstance {},
 	BackgroundProp: class extends self.ISpriteInstance {},
 	DecorationTilemap: class extends self.ITilemapInstance {},
-	Sprite: class extends self.ISpriteInstance {},
-	Sprite2: class extends self.ISpriteInstance {},
+	Seth: class extends self.ISpriteInstance {},
+	Text: class extends self.ITextInstance {},
 	SolidTiles: class extends self.ITilemapInstance {},
 	Killable: class extends self.ISpriteInstance {},
 	Bounceable: class extends self.ISpriteInstance {},

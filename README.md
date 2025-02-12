@@ -18,6 +18,10 @@ Not all of the assets are not owned by me; many are created by @sirninjamonkey o
 
 # Changelogs
 
+## v1.0.3.2
+* Added the version counter
+* Fixed the mobile pickup control not existing
+
 ## v1.0.3.1
 * Fixed softlock when a crate drops on Melvin
 * Fixed Snelvin not acknowledging crates
