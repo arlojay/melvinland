@@ -22,8 +22,9 @@ Not all of the assets are not owned by me; many are created by @sirninjamonkey o
 * Updated a few assets with sirninjamonkey's pack
 * Added a title screen
 * Added a level select screen
-* Menu navigation
+* Menu and level navigation
 * Added music and sound effect sliders
+* Squeak!
 
 ## v1.0.3.2
 * Added the version counter
