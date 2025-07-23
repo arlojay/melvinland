@@ -18,6 +18,13 @@ Not all of the assets are not owned by me; many are created by @sirninjamonkey o
 
 # Changelogs
 
+## v1.0.4.0
+* Updated a few assets with sirninjamonkey's pack
+* Added a title screen
+* Added a level select screen
+* Menu navigation
+* Added music and sound effect sliders
+
 ## v1.0.3.2
 * Added the version counter
 * Fixed the mobile pickup control not existing

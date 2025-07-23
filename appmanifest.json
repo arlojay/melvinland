@@ -1,6 +1,6 @@
 {
-	"name": "Melvinland",
-	"short_name": "Melvinland",
+	"name": "Melvinture",
+	"short_name": "Melvinture",
 	"description": "A simple platforming demo based on concept art of an untitled game featuring Melvin from the Cosmic Reach Discord.",
 	"start_url": "index.html",
 	"display": "fullscreen",
