@@ -13,10 +13,19 @@ A simple platforming demo based on concept art of an untitled game featuring [Me
 # Credits
 Created with [Construct 3](https://construct.net).
 
-Not all of the assets are not owned by me; many are created by @sirninjamonkey on Discord [(link to message)](https://discord.com/channels/1198501071363002408/1216876144926789754/1329845386185150514).
+Not all of the assets are owned by me; many are created by @sirninjamonkey on Discord [(link to message)](https://discord.com/channels/1198501071363002408/1216876144926789754/1329845386185150514).
 
 
 # Changelogs
+
+## v1.0.4.1
+* Added a level end screen
+* Three more overworld levels
+* Added best-time metric
+* Added balloon collectibles
+* Added more decorations
+* Added background graphics
+
 
 ## v1.0.4.0
 * Updated a few assets with sirninjamonkey's pack
