@@ -18,6 +18,11 @@ Not all of the assets are owned by me; many are created by @sirninjamonkey on Di
 
 # Changelogs
 
+## v1.0.4.2
+* Removed invisible tiles from The Fall
+* Added dirt tiles
+* One new level
+
 ## v1.0.4.1
 * Added a level end screen
 * Three more overworld levels
